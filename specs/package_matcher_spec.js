@@ -3,7 +3,7 @@
 /* global describe:false, it:false */
 
 var expect = require('chai').expect,
-  matcher = require('../tasks/lib/package_matcher');
+    matcher = require('../tasks/lib/matcher');
 
 describe('Package Matcher', function() {
   describe('wildcard support', function() {
