@@ -34,15 +34,14 @@
     "test": "grunt test"
   },
   "dependencies": {
+    "grunt": "~0.4.1",
     "bower": "~1.1.0",
-    "lodash": "~0.10.0",
     "rimraf": "~2.0.2",
     "wrench": "~1.4.3",
     "colors": "~0.6.0-1",
     "async": "~0.1.22"
   },
   "devDependencies": {
-    "grunt": "~0.4.1",
     "grunt-cli": "~0.1.6",
     "grunt-contrib-jshint": "0.3.0",
     "grunt-simple-mocha": "~0.4.0",
